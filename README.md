@@ -1,7 +1,6 @@
 # Remove background for image
 
-i forgot to ask my friend out for lunch so i made this instead
-
+This is a simple web app that took an picture an return the same picture without background
 
 
 ## How To Run
